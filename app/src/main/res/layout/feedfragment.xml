@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/bgblack">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/stories">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/plus"
+                app:civ_border_color="@color/orange"
+                app:civ_border_width="0dp"
+                android:layout_marginRight="15dp"/>
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/plus"
+                app:civ_border_color="@color/orange"
+                app:civ_border_width="4dp"
+                android:layout_marginRight="15dp"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/plus"
+                app:civ_border_color="@color/orange"
+                app:civ_border_width="4dp"
+                android:layout_marginRight="15dp"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/plus"
+                app:civ_border_color="@color/orange"
+                app:civ_border_width="4dp"
+                android:layout_marginRight="15dp"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/plus"
+                app:civ_border_color="@color/orange"
+                app:civ_border_width="4dp"
+                android:layout_marginRight="15dp"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/plus"
+                app:civ_border_color="@color/orange"
+                app:civ_border_width="4dp"
+                android:layout_marginRight="15dp"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/plus"
+                app:civ_border_color="@color/orange"
+                app:civ_border_width="4dp"
+                android:layout_marginRight="15dp"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/plus"
+                app:civ_border_color="@color/orange"
+                app:civ_border_width="4dp"
+                android:layout_marginRight="15dp"/>
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+    </HorizontalScrollView>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/idRVInstaFeeds"
+        android:layout_below="@id/stories"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!--progressbar for displaying
+        our loading indicator-->
+    <ProgressBar
+        android:id="@+id/idLoadingPB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="visible"
+        android:progressTint="@color/orange" />
+
+</RelativeLayout>
