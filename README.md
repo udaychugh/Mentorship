@@ -6,13 +6,15 @@ Mentorship is a fast and right way to learn and grow in your career with the hel
 https://udaychugh.github.io/mentorship-demo
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap1.JPG" height="150px" alt="Screenshot">
-<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap2.JPG" height="150px" alt="Screenshot">
-<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap3.JPG" height="150px" alt="Screenshot">
-<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap4.JPG" height="150px" alt="Screenshot">
-<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap5.JPG" height="150px" alt="Screenshot">
-<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap6.JPG" height="150px" alt="Screenshot">
-<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap7.JPG" height="150px" alt="Screenshot">
+<div style="display:flex;flex-wrap:wrap;">
+<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap1.JPG" height="350px" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap2.JPG" height="350px" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap3.JPG" height="350px" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap4.JPG" height="350px" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap5.JPG" height="350px" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap6.JPG" height="350px" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap7.JPG" height="350px" alt="Screenshot">  
+</div>
 
 ## how to use
 1. Click on login to student
