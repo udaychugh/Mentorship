@@ -16,7 +16,7 @@ https://udaychugh.github.io/mentorship-demo
 <img src="https://raw.githubusercontent.com/udaychugh/mentorship-demo/main/ss/snap7.JPG" height="350px" alt="Screenshot">  
 </div>
 
-## how to use
+## How to use
 1. Click on login to student
 2. Enter Email : udaychugh@student.com
 3. Enter password : 12345
